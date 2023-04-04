@@ -5,3 +5,4 @@
 * Orient DB: orient db.md
 * MySQL: mysql.md
 * Aerospike: aerospike.md
+* PostgreSQL: postgresql.md
