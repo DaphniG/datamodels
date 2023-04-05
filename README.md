@@ -8,4 +8,5 @@
 * PostgreSQL: postgresql.md
 * Datastax: datastax.md
 * Dgraph: dgraph.md
+* Raima: raima.md
 
