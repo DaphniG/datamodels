@@ -6,3 +6,5 @@
 * MySQL: mysql.md
 * Aerospike: aerospike.md
 * PostgreSQL: postgresql.md
+* Datastax: datastax.md
+
