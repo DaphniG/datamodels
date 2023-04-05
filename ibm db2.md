@@ -9,3 +9,6 @@ Cloud is a hosting model that IBM db2 uses.
 IBM db2 can be accessed through java by using a java database connectivity driver and connecting 
 that to your program by calling the driver manager get connection method. 
 
+Sources:
+* https://www.ibm.com/docs/en/db2-warehouse?topic=programmatically-jdbc
+* https://www.softwaretestinghelp.com/database-management-software/#23_Toad
