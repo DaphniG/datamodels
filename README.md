@@ -7,4 +7,5 @@
 * Aerospike: aerospike.md
 * PostgreSQL: postgresql.md
 * Datastax: datastax.md
+* Dgraph: dgraph.md
 
